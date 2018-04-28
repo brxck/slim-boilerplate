@@ -8,6 +8,8 @@ HTML is automatically compiled from Slim on change, while the browser is reloade
 
 Install a [LiveReload extension](https://github.com/twolfson/livereload-extensions).
 
+Clone this repository.
+
 Install gems using bundler:
 
 ```
